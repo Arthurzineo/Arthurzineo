@@ -6,9 +6,10 @@
 
 <br>
 
-<img src="https://media3.giphy.com/media/gDnKivbI2mNGwYhQuO/giphy.gif" >
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29qamtlcGRjeGVkcWgwemI4NzRoYTllNGRqYTg0NHFsbmN3cXhwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gDnKivbI2mNGwYhQuO/giphy-downsized.gif" >
 
 </br>
+
 :computer: I'm IT Technician.
 
 :house_with_garden: I’m from Brazil.
